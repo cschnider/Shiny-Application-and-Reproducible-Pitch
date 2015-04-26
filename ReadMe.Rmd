@@ -1,0 +1,13 @@
+---
+title: "ReadMe - Shiny Application and Reproducible Pitch"
+author: "cschnider"
+date: "Sunday, April 26, 2015"
+output: html_document
+---
+
+##Decription
+This is a simple Shiny application showing dynamically histograms of erruption waiting time
+
+##How to use the application
+Just slide the slider o the left from 5 to 100 bins
+The histogram gets updated automatically
